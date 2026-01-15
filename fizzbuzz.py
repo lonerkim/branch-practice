@@ -1,5 +1,5 @@
-for i in range(1, 15+1):
-# Fizzbuzz 구현
+for i in range(16, 30+1):
+# Fizzbuzz 구현 in main
     if i % 15 == 0:
         print('fizzbuzz')
     elif i % 3 == 0:
